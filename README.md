@@ -1,5 +1,5 @@
 # DankMemerMoneyMaker
-Super-simple python3 program that makes your money on Discord's Dank Memer Bot.
+Super-simple python3 program that makes you money on Discord's Dank Memer Bot.
 
 How it's supposed to work:
   0. Make sure you have the right dependencies installed (python3 and pyautogui)
